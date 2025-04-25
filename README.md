@@ -28,7 +28,10 @@ Reflection flips the image horizontally or vertically.
 Rotation rotates the image by a given angle.
 <br>
 
-## Program
+## Program:
+
+## NAME: DURGA V
+## REG NO: 212223230052
 
 ```
 import cv2
